@@ -1,0 +1,23 @@
+.box1{
+    height: 100vh;
+    width: 100vw;
+    background-color:coral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section1{
+    color: azure;
+}
+
+.box2{
+    height: 100vh;
+    background-color: tan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section2{
+    color: azure;
+}
